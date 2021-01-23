@@ -14,8 +14,8 @@
    ## Versão Mobile
   <a href="https://github.com/FVitor7/Instagram-DIO/">
     <img 
-         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/mobile.mobile" 
-         alt="Interface Instagram Descktop" 
+         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/mobile.png" 
+         alt="Interface Instagram Mobile" 
     />
   </a>
  
