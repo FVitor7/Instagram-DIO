@@ -23,4 +23,4 @@
 
 <hr />
 
-- Projeto faz parte do curso da Digital Innovation One. [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One").
+- Projeto faz parte do curso da [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One").
