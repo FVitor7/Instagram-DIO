@@ -6,7 +6,7 @@
   ## Versão Descktop
   <a href="https://github.com/FVitor7/Instagram-DIO/">
     <img 
-         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/preview_descktop.PNG" 
+         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/descktop.png" 
          alt="Interface Instagram Descktop" 
     />
   </a>
@@ -14,7 +14,7 @@
    ## Versão Mobile
   <a href="https://github.com/FVitor7/Instagram-DIO/">
     <img 
-         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/preview_mobile.PNG" 
+         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/mobile.mobile" 
          alt="Interface Instagram Descktop" 
     />
   </a>
