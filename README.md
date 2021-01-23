@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://github.com/FVitor7/Instagram-DIO/">
     <img 
-         src="https://github.com/FVitor7/Instagram-DIO/blob/master/img/preview_descktop.PNG" 
-         alt="Interface Instagram" 
+         src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/preview_descktop.PNG" 
+         alt="Interface Instagram Descktop" 
     />
   </a>
   <br />
