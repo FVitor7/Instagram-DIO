@@ -3,7 +3,7 @@
    
   Recriando a página inicial do Instagram com HTML e CSS utilizando flex-box.
   <br>
-  ## Versão Descktop
+  ## Versão Desktop
   <a href="https://github.com/FVitor7/Instagram-DIO/">
     <img 
          src="https://raw.githubusercontent.com/FVitor7/Instagram-DIO/main/img/descktop.png" 
